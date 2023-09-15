@@ -1,4 +1,4 @@
-# Mathis Corrio CV
+# HeroOfTheDay (Twitter Bot)
 ## Description 📄
 Python script aimed at publishing a new tweet every day on the *@HeroOfTheDay* account (deleted account). The script randomly chooses a character via the Marvel API, retrieves their image, name, and a link to their description page, and publishes it on Twitter. <br>
 To execute this script, a crontask on the AWS Lambda plateform is executed everyday.
